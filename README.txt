@@ -5,8 +5,7 @@ Utilizing the zipped psd file in this repository create the Schedule an Appointm
 
 The deliverable
 
-Please fork the complete repo and create a folder named 'solution'
-in the same folder where you find this READEME.rdoc file.
+Please fork this complete repo and create a folder named 'solution' in the same folder where you find this READEME.txt file. Please email us a link to your forked repository.
 
 The folder must contain this structure
 
@@ -23,3 +22,4 @@ The page should be tested to operate in the following web browsers:
   Safari
   Internet Explorer 7+
 
+Commit as often as you can and push your solution when its finished. At least push once when you start the solution and once you end it, we would like to see the time it took to reach your solution also.
