@@ -8,9 +8,10 @@ The deliverable
 * Please fork this complete repo and create a folder named 'solution' in the same folder where you find this READEME.txt file. 
 * Please email us a link to your forked repository.
 * Please make the page so that the area titled 'Select an Appointment Time' and the 'Schedule Appointment' button are hidden on initial load. 
-* Use jQuery library to show this area when the 'Search for Available Appointments' button is clicked. Extra points to have this section fade in when being shown.
+* Use jQuery (jQuery UI too) library to show this area when the 'Search for Available Appointments' button is clicked. Extra points to have this section fade in when being shown.
 * On all other buttons, when the button is clicked create a floating message using the FancyBox (see http://fancybox.net/) plugin which says 'To Be Implemented'.
 * Provide both a standard html and a haml version of the markup.
+* Make sure any form or forms and their content are logically organized to best of your ability in terms of what would be posted to the server.
 * Your 'solution' folder must contain this structure:
 
   index.html
